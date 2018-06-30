@@ -16,7 +16,7 @@ Description Of the Algorithm/ Data structure Implementation:
 
 TESTING:
 
-1. We have replace the files that were modified and compile them.
+1. I had replaced the files that were modified and compile them.
 2. For compilation we have to use sudo make clean and sudo make commands.
 3. Then install using sudo make install
 4. The following commands were used to run the postgresql
